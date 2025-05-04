@@ -1,3 +1,10 @@
+/**
+Main method is Student.java
+
+this second file is the backbone of Student.java and is responsible for getters and setters 
+*/
+
+
 public class Details
 {
    private String name;
