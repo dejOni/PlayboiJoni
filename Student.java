@@ -1,3 +1,10 @@
+/**
+   The main method for Details.java
+
+   The body of Details.java
+*/
+
+
 public class Student
 {
    public static void main(String[] args)
