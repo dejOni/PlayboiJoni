@@ -2,6 +2,7 @@
 Main method is Student.java
 
 this second file is the backbone of Student.java and is responsible for getters and setters 
+and the in the Student.java cannot be changed or altered because of this second file
 */
 
 
