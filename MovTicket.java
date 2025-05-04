@@ -1,3 +1,10 @@
+/**
+   A movie ticket pricing system 
+
+   This code is used for move theaters to determine the discounts and its movie rating
+*/
+
+
 import java.util.*;
 
 public class MovTicket{
